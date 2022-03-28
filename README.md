@@ -25,8 +25,8 @@
 #### 👩🏻‍💻 [2nd-Catch-JAVA](https://github.com/Catch-Java/2nd-Catch-JAVA) 
 |**Name**  |고현석|문권이|이지현|임찬섭|채서윤|
 |----------|----|----|-----|----|----|
-|&nbsp;**Role**  |&nbsp;&nbsp;&nbsp;&nbsp;**멘토**|&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|
-|**Github**|[@khsexk](https://github.com/khsexk)|[@no](https://github.com/)|[@no](https://github.com/)|[@no](https://github.com/)|[@no](https://github.com/)|
+|&nbsp;**Role**  |&nbsp;&nbsp;&nbsp;&nbsp;**멘토**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;멘티|
+|**Github**|[@khsexk](https://github.com/khsexk)|[@M00NPANG](https://github.com/M00NPANG)|[@jhyeonn](https://github.com/jhyeonn)|[@limchansub](https://github.com/limchansub)|[@seoyoun8694](https://github.com/seoyoun8694)|
 
 * * *
 
